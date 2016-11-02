@@ -1,0 +1,7 @@
+{"name": "AFK", "channel_id": "242953504891600896", "token": "yNdpnlg4-NGGJJzWknKeO9zU3UlLgkhqtwxtDGc12s85e4Xr22Se5W9ki1kFvXXZ_SNY", "avatar": null, "guild_id": "242952004048125952", "id": "243124149155790849"}
+{
+    "channel_id": "242953504891600896",
+    "deaf": true,
+    "mute": true,
+    "suppress": false
+}
